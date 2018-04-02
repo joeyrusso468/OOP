@@ -99,5 +99,3 @@ print(x.hypoallergenic)
 print(x.temperament)
 print(x.bark)
 
-__init__(self, gain weight)
-
